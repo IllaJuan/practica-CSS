@@ -1,0 +1,12 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.destacado > img {
+    opacity: 0.5;
+}
+
+.destacado > img.importante {
+    opacity: 0.9;
+}
