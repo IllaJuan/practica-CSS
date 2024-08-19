@@ -1,0 +1,14 @@
+.parrafoAmarillo {
+    color: #ffff00;
+    animation: cambioAVerde 2s 2s infinite alternate;
+}
+
+
+@keyframes cambioAVerde {
+    from {
+      color: #ffff00;
+    }
+    to {
+        color: #008000;
+    }
+  }
